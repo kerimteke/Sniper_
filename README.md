@@ -1,2 +1,2 @@
-# Sniper_work
+# Sniper_
 Sniper ile puff'ları koru.
